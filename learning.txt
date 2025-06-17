@@ -1,1 +1,2 @@
 Git is a distributed version control system that has become the industry standard for tracking changes in code and collaborating on software projects. 
+learning.txt doesn't contain: ["What I have learned from this course"]
